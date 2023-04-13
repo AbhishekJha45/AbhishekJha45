@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Software Engineer and Web developer from India</h3>
 <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50">
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **Node.js and React Native**
