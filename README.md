@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h3 align="center">A passionate Software Engineer and Web developer from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50">
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **Node.js and React Native**
+- 🌱 Exploring **Blockchain and Backend Stuffs**
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
-- 💬 Ask me about **Java and React stuffs**
+- 💬 Ask me about **Java and GOlang stuffs**
 
 - 📫 How to reach me **abhishekjha4123@gmail.com**
 
